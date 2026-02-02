@@ -1,3 +1,4 @@
+[![CI Pipeline](https://github.com/DimaVinnichuk/FastAPI-CI-CD-Demo/actions/workflows/ci.yaml/badge.svg)](https://github.com/DimaVinnichuk/FastAPI-CI-CD-Demo/actions/workflows/ci.yaml)
 # FastAPI + Docker + CI/CD Pipeline
 
 This project demonstrates the automation of the development and deployment cycle for a web application using modern DevOps tools.
