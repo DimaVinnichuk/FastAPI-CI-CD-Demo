@@ -27,10 +27,6 @@ Implemented a workflow in `.github/workflows/ci.yml` that automatically triggers
 - Configured automated service updates on the **Render** platform via Deploy Webhooks.
 - The deployment process is initiated only after the successful completion of all testing stages in GitHub Actions.
 
-### 5. Activity Monitoring (Keep-Alive)
-- Created an additional workflow (`keep_alive.yml`) that uses a `cron` schedule to perform periodic requests to the API.
-- This prevents the service from entering "Spin down" mode on the hosting's free tier, ensuring fast system response times.
-
 ---
 
 ## Tech Stack
